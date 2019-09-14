@@ -1,0 +1,9 @@
+The project includes several programs dealing with facial recognition.
+In findFaces.py, the program will output the number of faces detected in a photo
+In faceMatch.py we feed president Obama's face to the system and compare it to another picture.
+The program will determine if it is him.
+In findPersonInPhoto.py, the program will determine if Obama was found in an image with a group of people.
+
+In videoFaceRecognition.py, the video camara on your labtop will turn on and determine when it spots a person's face.
+It will draw a square around the face if it detects it.  Your face is closer to the camera, the square
+will be more green and if you are farther way, the square will be more red.
